@@ -8,7 +8,7 @@ It constructs the dependency rules, compiles them and links the main code in the
 
 ## Usage
 Basis usage:
-1. Place the Makefile in the same folder as the `main.cpp` file.
+1. Place the [Makefile](Makefile) in the same folder as the `main.cpp` file.
 2. Edit the location of the dependency files (default is `SRC_DIRS = .`)
 3. Edit executable name, compiler flags and the like (optional)
 4. Run `make all`
