@@ -13,7 +13,7 @@ It looks recursively into the folder tree for headers and sources.
 It constructs the dependency rules, compiles them and links the main code in the base directory.
 
 ## Usage
-Basis usage:
+Basic usage:
 1. Place the [Makefile](Makefile) in the same folder as the `main.cpp` file.
 2. Edit the location of the dependency files (default is `SRC_DIRS = .`)
 3. Edit executable name, compiler flags and the like (optional)
