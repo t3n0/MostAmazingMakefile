@@ -1,4 +1,9 @@
 # The most amazing Makefile
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+![GitHub Release Date](https://img.shields.io/github/release-date/t3n0/Makefile)
+![GitHub all releases](https://img.shields.io/github/downloads/t3n0/Makefile/total)
+
 THE definitive makefile for simple `c++` projects, without scassamento di maroni!
 
 ## Description
