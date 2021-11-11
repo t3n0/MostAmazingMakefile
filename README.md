@@ -1,8 +1,9 @@
 # The most amazing Makefile
 
+[![GitHub Release Date](https://img.shields.io/github/release-date/t3n0/MostAmazingMakefile)](https://github.com/t3n0/MostAmazingMakefile/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/t3n0/MostAmazingMakefile)](https://github.com/t3n0/MostAmazingMakefile/releases/latest)
+[![GitHub all releases](https://img.shields.io/github/downloads/t3n0/MostAmazingMakefile/total)](https://github.com/t3n0/MostAmazingMakefile/releases/latest)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![GitHub Release Date](https://img.shields.io/github/release-date/t3n0/Makefile)](https://github.com/t3n0/Makefile/releases/latest)
-[![GitHub all releases](https://img.shields.io/github/downloads/t3n0/Makefile/total)](https://github.com/t3n0/Makefile/releases/latest)
 
 THE definitive makefile for simple `c++` projects, without scassamento di maroni!
 
