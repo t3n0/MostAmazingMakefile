@@ -15,7 +15,7 @@
 SRC_DIRS := .
 EXE      := a.out
 ARCHIVE  := lib.a
-FLAGS    := -std=c++17 -Wall -flto -O3 
+FLAGS    := -std=c++17 -Wall
 CXX      := g++
 AR       := gcc-ar
 ARFLAGS  := rvs
