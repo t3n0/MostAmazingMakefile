@@ -1,2 +1,23 @@
-# Makefile
-The most amazing makefile for simple c++ projects. It does everything automatically, just paste it and run it.
+# The most amazing Makefile
+THE definitive makefile for simple `c++` projects, without scassamento di maroni!
+
+## Description
+This simple makefile compiles all your `c++` projects automatically.
+It looks recursively into the folder tree for headers and sources.
+It constructs the dependency rules, compiles them and links the main code in the base directory.
+
+## Usage
+Basis usage:
+1. Place the Makefile in the same folder as the `main.cpp` file.
+2. Edit the location of the dependency files (default is `SRC_DIRS = .`)
+3. Edit executable name, compiler flags and the like (optional)
+4. Run `make all`
+
+Other commands:
+- `make` shows a default help message;
+- `make ar` links all sources into a static library (default is `lib.a`) and collects all headers into the `include` folder;
+- `make clean` removes all object files, dependency files, archive and executable.
+
+## Requirements
+This project runs on `unix` systems.
+It requires a version of the `g++` compiler supporting the `-MMD` flags and uses `gcc-ar` for generating the archive.
